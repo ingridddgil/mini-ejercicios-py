@@ -1,0 +1,35 @@
+Date: 6/8/2024
+Time: 8:49
+Phone Number: +529211159058
+Message: Hola amor, estoy enviandote este mensaje desde python
+--------------------
+Date: 6/8/2024
+Time: 8:52
+Phone Number: +529211054949
+Message: Holap, estoy probando enviarte un mensaje desde python
+--------------------
+Date: 6/8/2024
+Time: 9:1
+Phone Number: +529211054949
+Message: Holap, estoy probando enviarte un mensaje desde python
+--------------------
+Date: 6/8/2024
+Time: 9:3
+Phone Number: +529212687491
+Message: Holap, estoy probando enviarte un mensaje desde python
+--------------------
+Date: 6/8/2024
+Time: 9:4
+Phone Number: +529211054949
+Message: Holap, estoy probando enviarte un mensaje desde python
+--------------------
+Date: 6/8/2024
+Time: 9:13
+Phone Number: +529212687491
+Message: Solo importé una libreria al código
+--------------------
+Date: 6/8/2024
+Time: 9:18
+Phone Number: +529211385585
+Message: Hola papi, buenos días. ¿Cómo estás?
+--------------------
