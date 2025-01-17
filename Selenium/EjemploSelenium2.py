@@ -18,16 +18,15 @@ campo_codigo = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By
 codigo_valor = campo_codigo.get_dom_attribute("value")
 
 
-driver2 = webdriver.Chrome()
-driver2.get("http://www.pino.mx/ti/acceso01.php")
+driver.get("http://www.pino.mx/ti/acceso01.php")
 
-campo_matricula = WebDriverWait(driver2, 5).until(EC.presence_of_element_located((By.ID, "matricula")))
+campo_matricula = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "matricula")))
 campo_matricula.send_keys(matricula)
-campo_codigo = WebDriverWait(driver2, 5).until(EC.presence_of_element_located((By.ID, "codigo")))
+campo_codigo = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "codigo")))
 campo_codigo.send_keys(codigo_valor)
 campo_codigo.send_keys(Keys.ENTER)
 
-campo_confirmacion = WebDriverWait(driver2, 5).until(EC.presence_of_element_located((By.ID, "confirmacion")))
+campo_confirmacion = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "confirmacion")))
 confirmacion_valor =campo_confirmacion.get_dom_attribute("value")
 
 time.sleep(6)
